@@ -1,4 +1,4 @@
-CyanogenMod (sgt7)
+CyanogenMod (sgt7-spanner3003)
 ===========
 
 Getting Started
@@ -9,7 +9,7 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the CyanogenMod trees, use a command like this:
 
-    repo init -u git://github.com/sgt7/android.git -b ics
+    repo init -u git://github.com/sgt7-spanner3003/android.git -b ics
 
 Then to sync up:
 
@@ -56,4 +56,4 @@ Commit your patches in a single commit. Squash multiple commit using this comman
 
 To view the status of your and others' patches, visit [CyanogenMod Code Review](http://review.cyanogenmod.com/)
 
-OR you can always shoot a pull request - if it was something sgt7 specific
+OR you can always shoot a pull request - if it was something sgt7-spanner3003 specific
